@@ -1,2 +1,2 @@
-# PUBLIC-GPG-KEY
-my public gpg key 
+# PUBLIC-PGP-KEY
+my public PGP key 
